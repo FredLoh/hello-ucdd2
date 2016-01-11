@@ -12,7 +12,7 @@ If you are successful, you should have a site that looks like this:
 
 ![screenshot of the site](site.png)
 
-[https://boiling-torch-6953.firebaseapp.com/](https://hello-ucdd2.firebaseapp.com/)
+[https://boiling-torch-6953.firebaseapp.com/](https://boiling-torch-6953.firebaseapp.com/)
 
 ## Due
 before the first class
